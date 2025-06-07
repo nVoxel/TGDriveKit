@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "TGDriveKit",
-         url: "https://github.com/nVoxel/TGDriveKit/releases/download/0.0.2/TGDriveKit.xcframework.zip",
-         checksum:"ec5420bba6110fad8d24edc7bb1446437a81e3d8eb090b4708a2a58ede5d6c24")
+         url: "https://github.com/nVoxel/TGDriveKit/releases/download/0.0.3/TGDriveKit.xcframework.zip",
+         checksum:"8b1379b78b019f6445146ac9f2364763d2321ce3048086e7f06da6bf4063b99c")
    ]
 )
